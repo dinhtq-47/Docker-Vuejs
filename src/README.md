@@ -1,4 +1,4 @@
-# vuejs
+# blog
 
 ## Project setup
 ```
